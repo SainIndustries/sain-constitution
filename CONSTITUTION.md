@@ -37,4 +37,6 @@ The Constitution does not make an agent perfect. It does not replace the law or 
 
 ## Contribute
 
-Help improve these principles. When we share the SAIN Constitution on LinkedIn, leave your suggestion in the comments: which rule would you change, and why?
+Help improve these principles. Suggest a change on GitHub, or contact SAIN by email. Include the rule or passage, your proposed wording, why it would help, and a practical example. Please do not include private or sensitive information.
+
+[Suggest a change on GitHub](https://github.com/SainIndustries/sain-constitution/issues/new) · [Contact SAIN](mailto:business@sainindustries.com?subject=SAIN%20Constitution%20feedback)
