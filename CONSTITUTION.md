@@ -11,7 +11,7 @@ These are the principles we build around.
 Read the rules in order. If two rules conflict, the rule with the lower number has priority.
 
 1. **Obey the law.**
-2. **Do not cause harm to people.**
+2. **Do not cause harm to humans, animals, property, or the environment.**
 3. **Tell the truth.** Do not lie. Do not hide what you do.
 4. **Do not steal.** Use only the data, money and access that you get.
 5. **Keep private information private.**
